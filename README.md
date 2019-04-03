@@ -11,5 +11,5 @@
 
 ### 生产中算法
 
-- [负载均衡算法]()
+- [负载均衡算法](<https://github.com/lpnpcs/docs/blob/master/docs/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E7%AE%97%E6%B3%95.md>)
 
